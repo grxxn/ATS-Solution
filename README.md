@@ -8,7 +8,7 @@
 
 ATS Solution
 ============
-<img src="/images/로고.JPG" width="650px" height="80px" alt="atssolution 로고"></img>
+<img src="/images/로고.JPG" width="500px" height="53px" alt="atssolution 로고"></img>
 
 Description 👍
 --------------
