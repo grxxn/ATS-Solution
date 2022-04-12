@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATS Solution</title>
+    <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=509vfctcfy"></script>
+    <link rel="stylesheet" href="./CSS/styles.css?var=6">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/9805a1e1da.js" crossorigin="anonymous"></script>
+</head>
+<body id="company2">
+    <section class="header">
+        <h1>
+            <a href="./index.php">
+                <img src="./images/로고.JPG" alt="로고" class="logo">
+            </a>
+        </h1>
+        <div class="menu">
+            <span class="menu_bar">
+                <i class="fa fa-bars hamMenu"></i>
+            </span>
+            <div class="menu_list">
+                <i class="fas fa-times x_icon"></i>
+                <div class="dropdown_toggle">
+                    <p>회사소개</p>
+                    <ul class="dropdown_menu">
+                        <a href="company1.html"><li>기업 정보</li></a>
+                        <a href="company2.html"><li>오시는 길</li></a>
+                    </ul>
+                </div>
+                <div class="dropdown_toggle">
+                    <p>제품소개</p>
+                    <ul class="dropdown_menu">
+                        <a href="product1.html"><li>경쟁력</li></a>
+                        <a href="product2.html"><li>제품</li></a>
+                        <a href="product3.html"><li>작동원리</li></a>
+                        <a href="product4.html"><li>제품설치사례</li></a>
+                    </ul>
+                </div>
+                <div class="dropdown_toggle">
+                    <p>비지니스</p>
+                    <ul class="dropdown_menu">
+                        <a href="business1.html"><li>기대효과</li></a>
+                        <a href="business2.html"><li>설치가능구역</li></a>
+                    </ul>
+                </div>
+                <div class="dropdown_toggle">
+                    <p>고객문의</p>
+                    <ul class="dropdown_menu">
+                        <a href="guide1.html"><li>FAQ</li></a>
+                        <a href="guide2.php?page=1"><li>대외자료</li></a>
+                        <a href="guide3.php?page=1"><li>게시판</li></a>
+                        <a href="guide4.php?page=1"><li>대리점 문의</li></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="landing company">
+        <div class="landing_container">
+            <h3>COMPANY</h3>
+            <p>
+                All Traffic Safety solution Corp.
+            </p>
+        </div>
+    </section>
+
+    <section class="contents">
+        <div class="contents_container">
+            <div class="menu_nav">
+                <h4>COMPANY</h4>
+                <ul class="menu_nav_list">
+                    <a href="./company1.html"><li>기업정보</li></a>
+                    <a href="./company2.html"><li>오시는 길</li></a>
+                </ul>
+            </div>
+            <div class="main_content">
+                <h4>오시는 길</h4>
+                <div class="company_content">
+                    <div id="map"></div>
+                    <div class="main_location">
+                        <h5>LOCATION</h5>
+                        <ul class="main_location_list">
+                            <li>
+                                (우.02055)서울특별시 중랑구 신내역로 2길 40-36 신내데시앙플렉스 A동 711호
+                            </li>
+                            <li>
+                                전화 : 02-6949-5178
+                            </li>
+                            <li>
+                                팩스 : 02-6949-5179
+                            </li>
+                            <li>
+                                메일 : ats911@naver.com
+                            </li>
+                        </ul>
+                    </div>        
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mini_nav">
+        <ul class="mini_nav_list">
+            <li><a href="./company1.html">회사소개</a></li>
+            <li><a href="./product1.html">제품소개</a></li>
+            <li><a href="./business1.html">비지니스</a></li>
+            <li><a href="./guide3.php?page=1">게시판</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <div class="footer_container">
+            <p>주식회사 에이티에스솔루션 / 대표 김 정 연</p>
+            <p>(02055) 서울특별시 중랑구 신내역로 2길 40-36 신내데시앙플렉스 A동 711호</p>
+            <p>Tel. 02 - 6949 - 5178  /  Fax. 02 - 6949 - 5179  /  Mail. ats911@naver.com</p>
+        </div>
+    </footer>
+    
+    <script src="./JS/main.js?var=0"></script>
+</body>
+</html>
