@@ -11,4 +11,13 @@
 주식회사 에이티에스 솔루션은 2021년 5월 창업한 스타트업으로, 바닥신호등을 판매하는 업체입니다.   
 홍보를 위한 페이지 제작에 대한 업무를 맡게 되어 2021년 11월부터 2022년 1월까지 총 3달동안 진행한 프로젝트로, 완성 직후 네이버 광고 시스템을 이용하여 파워링크까지 등록된 상태입니다. 
 
-## Description 👍
+## 👍 Description 👍
+
+### 🔨 Tools 🪓
+visualStudioCode, MariaDB, FileZilla, Github   
+<img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white" />
+<img src=""https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black />
+
+### 💻 Languages 💻 
+html, css, javscript, php, db
