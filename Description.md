@@ -15,18 +15,18 @@
 기업과 제품에 대한 홍보와 게시판, 대리점 문의 등을 통한 사용자와의 소통을 위한 페이지를 제작.
 실제 검색을 통한 홍보로 제품 견적 문의와 대리점 문의 다수.
 
-### 🏠 Directory Structure 🏠
-style - CSS 파일
-Javascript - JS 파일
-images - 페이지에서 사용된 이미지들을 모아놓은 파일
+### 🏠 Directory Structure 🏠   
+- style - CSS 파일   
+- Javascript - JS 파일   
+- images - 페이지에서 사용된 이미지들을 모아놓은 파일   
 
-### 🔨 Tools 🪓
+### 🔨 Tools 🪓   
 <img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/-FileZilla-%23BF0000?style=flat-square&logo=FileZilla&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
 
 
-### 💻 Languages 💻 
+### 💻 Languages 💻    
 <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
