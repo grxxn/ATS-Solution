@@ -9,9 +9,16 @@
 # ATS Solution
 <a href="http://atssolution.co.kr/" target="_blank"><img src="/images/로고.JPG" alt="atssolution 로고"></img></a><br/>
 주식회사 에이티에스 솔루션은 2021년 5월 창업한 스타트업으로, 바닥신호등을 판매하는 업체입니다.   
-홍보를 위한 페이지 제작에 대한 업무를 맡게 되어 2021년 11월부터 2022년 1월까지 총 3달동안 진행한 프로젝트로, 완성 직후 네이버 광고 시스템을 이용하여 파워링크까지 등록된 상태입니다. 
+홍보를 위한 페이지 제작에 대한 업무를 맡게 되어 2021년 11월부터 2022년 1월까지 총 3달동안 진행한 프로젝트로, 완성 직후 네이버 광고 시스템을 이용하여 파워링크에 등록된 상태입니다. 
 
 ## 👍 Description 👍
+기업과 제품에 대한 홍보와 게시판, 대리점 문의 등을 통한 사용자와의 소통을 위한 페이지를 제작.
+실제 검색을 통한 홍보로 제품 견적 문의와 대리점 문의 다수.
+
+### 🏠 Directory Structure 🏠
+style - CSS 파일
+Javascript - JS 파일
+images - 페이지에서 사용된 이미지들을 모아놓은 파일
 
 ### 🔨 Tools 🪓
 <img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
