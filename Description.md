@@ -14,12 +14,15 @@
 ## 👍 Description 👍
 
 ### 🔨 Tools 🪓
-visualStudioCode, MariaDB, FileZilla, Github   
+<img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/-FileZilla-%23BF0000?style=flat-square&logo=FileZilla&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white" />
+
+
+### 💻 Languages 💻 
 <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
 <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logocolor=%23003545" />
 <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=PHP&logoColor=white" />
 
-### 💻 Languages 💻 
-html, css, javscript, php, db
